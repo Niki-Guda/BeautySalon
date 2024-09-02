@@ -320,7 +320,6 @@ hr{
 
     .service-desc p{
         font-size: 12px;
-        bottom: 55%;
     }
 
     hr{
@@ -328,7 +327,7 @@ hr{
     }
 
     .single-service:hover .service-desc{
-        bottom: 25% !important;
+        bottom: 45% !important;
         opacity: 1;
     }
 }
